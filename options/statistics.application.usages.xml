@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="playground" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="playground" values="WEB_MODULE" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="playground" values="DEFAULT" />
+    </group>
+  </component>
+</application>
+

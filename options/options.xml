@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="#Browse_Repositories.0.22.1440.874" x="308" y="121" />
+    <location key="#Node.js.0.22.1440.874" x="537" y="363" />
+    <location key="OptionsEditor.0.22.1440.874" x="172" y="53" />
+    <size key="#Node.js.0.22.1440.874" width="392" height="215" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.apple.laf.AquaLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="installation.uid" value="7a913ece-25d7-4293-b823-71647cf5b6b3" />
+    <property name="Tests" value="Green" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+  </component>
+</application>
+

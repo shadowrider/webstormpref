@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileBasedIndex">
+    <option name="registeredIndices">
+      <list>
+        <option value="JS.class.implements" />
+        <option value="JS.class.super" />
+        <option value="js.element.qualifiedName" />
+        <option value="js.members.shortName" />
+        <option value="js.qualified.shortName" />
+      </list>
+    </option>
+  </component>
+</application>
+
